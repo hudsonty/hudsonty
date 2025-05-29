@@ -1,43 +1,63 @@
-# 👋 Hi, I'm Hudson
+<h1 align="center">
+  <a href="https://youwillneverwin.vercel.app" style="text-decoration: none;">
+    <span style="font-weight: bold;">
+      <span style="display: inline-block; animation: fadeIn 3s infinite alternate;">Hi, I'm Hudson</span>
+    </span>
+  </a>
+</h1>
 
-Welcome! I’m a 13-year-old developer, modder, and builder with a passion for retro tech, web design, and music theory.
+<p align="center">I'm a 13-year-old developer, modder, and builder with a passion for retro tech, web design, and music theory.</p>
 
 ---
 
-## 📈 My GitHub Stats
+## GitHub Stats
 
-<!-- Profile Summary Cards -->
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hudsonty&theme=github_dark)
+<div align="center">
+
+<!-- Anurag GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=hudsonty&show_icons=true&theme=transparent&hide_title=true" width="48%" />
 
 <!-- Top Languages -->
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=hudsonty&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonty&layout=compact&theme=transparent" width="42%" />
 
-<!-- GitHub Commits -->
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hudsonty&theme=github_dark)
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent" width="90%" />
 
----
-
-## ⚙️ Projects I'm Working On
-
-- 🎮 **Custom Game Boy Color mods** with light-up buttons and AMOLED screens  
-- 🌐 **Web proxy remake**: [YouWillNeverWin](https://youwillneverwin.vercel.app)  
-- 📈 **Paper trading dashboard** tools for stocks and ETFs  
-- 🎼 **Music theory tools** for piano and guitar
+</div>
 
 ---
 
-## 🎯 Learning Goals
+## GitHub Trophies
 
-- Swift and iOS/macOS development  
-- C++ and assembly for Game Boy dev  
-- 3D printing + electronics mods  
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hudsonty&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## Projects I'm Working On
+
+- Custom Game Boy Color mods with light-up buttons and AMOLED screens  
+- Web proxy remake: [YouWillNeverWin](https://youwillneverwin.vercel.app)  
+- Paper trading dashboard tools for stocks and ETFs  
+- Music theory tools for piano and guitar
+
+---
+
+## Currently Learning
+
+- Swift and iOS/macOS app development  
+- C++ for Game Boy programming  
+- 3D printing + electronics  
 - Music harmony & macroeconomic theory
 
 ---
 
-## 🌍 Website
+## Website
 
-- 🔗 [youwillneverwin.vercel.app](https://youwillneverwin.vercel.app)
+**[youwillneverwin.vercel.app](https://youwillneverwin.vercel.app)**
 
 ---
 
