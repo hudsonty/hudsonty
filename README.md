@@ -1,10 +1,10 @@
 <h1 align="center">
-  <span style="font-weight: bold; font-size: 2em;">Hi, I'm Hudson</span>
+  <a href="https://youwillneverwin.vercel.app" style="text-decoration: none;">
+    <span style="font-weight: bold;">
+      <span style="display: inline-block; animation: fadeIn 3s infinite alternate;">Hi, I'm Hudson</span>
+    </span>
+  </a>
 </h1>
-
-<p align="center">
-  I'm a 13-year-old developer, modder, and builder with a passion for retro tech, web design, and music theory.
-</p>
 
 ---
 
