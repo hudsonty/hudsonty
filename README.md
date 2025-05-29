@@ -12,11 +12,8 @@
 
 <div align="center">
 
-<!-- Anurag GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=hudsonty&show_icons=true&theme=transparent&hide_title=true" width="48%" />
-
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent" width="90%" />
 </div>
 
 ---
