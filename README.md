@@ -12,12 +12,11 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<!-- Anurag GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=hudsonty&show_icons=true&theme=transparent&hide_title=true" width="48%" />
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent" width="48%" />
-
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent" width="90%" />
 </div>
 
 ---
@@ -35,7 +34,7 @@
 ## Projects I'm Working On
 
 - Custom Game Boy Color mods with light-up buttons and AMOLED screens  
-- Web proxy remake: [YouWillNeverWin](https://youwillneverwin.vercel.app)  
+- Web proxy remake: [youwillneverwin](https://youwillneverwin.vercel.app)  
 - Paper trading dashboard tools for stocks and ETFs  
 - Music theory tools for piano and guitar
 
@@ -44,7 +43,6 @@
 ## Currently Learning
 
 - Swift and iOS/macOS app development  
-- C++ for Game Boy programming  
 - 3D printing and electronics  
 - Music harmony and macroeconomic theory
 
@@ -55,5 +53,3 @@
 **[youwillneverwin.vercel.app](https://youwillneverwin.vercel.app)**
 
 ---
-
-> “You will never win.” – but I’m still building anyway.
