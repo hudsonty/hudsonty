@@ -1,12 +1,10 @@
 <h1 align="center">
-  <a href="https://youwillneverwin.vercel.app" style="text-decoration: none;">
-    <span style="font-weight: bold;">
-      <span style="display: inline-block; animation: fadeIn 3s infinite alternate;">Hi, I'm Hudson</span>
-    </span>
-  </a>
+  <span style="font-weight: bold; font-size: 2em;">Hi, I'm Hudson</span>
 </h1>
 
-<p align="center">I'm a 13-year-old developer, modder, and builder with a passion for retro tech, web design, and music theory.</p>
+<p align="center">
+  I'm a 13-year-old developer, modder, and builder with a passion for retro tech, web design, and music theory.
+</p>
 
 ---
 
@@ -14,14 +12,11 @@
 
 <div align="center">
 
-<!-- Anurag GitHub Stats -->
+<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=hudsonty&show_icons=true&theme=transparent&hide_title=true" width="48%" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonty&layout=compact&theme=transparent" width="42%" />
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent" width="90%" />
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent" width="48%" />
 
 </div>
 
@@ -50,8 +45,8 @@
 
 - Swift and iOS/macOS app development  
 - C++ for Game Boy programming  
-- 3D printing + electronics  
-- Music harmony & macroeconomic theory
+- 3D printing and electronics  
+- Music harmony and macroeconomic theory
 
 ---
 
