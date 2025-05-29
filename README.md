@@ -16,17 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hudsonty&show_icons=true&theme=transparent&hide_title=true" width="48%" />
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent" width="90%" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hudsonty&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent" width="48%" />
 </div>
 
 ---
@@ -51,5 +41,15 @@
 ## Website
 
 **[youwillneverwin.vercel.app](https://youwillneverwin.vercel.app)**
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hudsonty&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
 
 ---
