@@ -6,6 +6,8 @@
   </a>
 </h1>
 
+<p align="center">I'm a 13-year-old developer, modder, and builder with a passion for retro tech, web design, and music theory.</p>
+
 ---
 
 ## GitHub Stats
