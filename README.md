@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://youwillneverwin.vercel.app" style="text-decoration: none;">
     <span style="font-weight: bold;">
-      <span style="display: inline-block; animation: fadeIn 3s infinite alternate;">Hi, I'm Hudson</span>
+      <span style="display: inline-block; animation: fadeIn 3s infinite alternate;">Hi, I'm Hudson!</span>
     </span>
   </a>
 </h1>
