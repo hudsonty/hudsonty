@@ -1,43 +1,43 @@
 # 👋 Hi, I'm Hudson
 
-Welcome to my GitHub! I’m a 13-year-old developer, modder, and builder with a passion for retro tech, web design, and music theory.
+Welcome! I’m a 13-year-old developer, modder, and builder with a passion for retro tech, web design, and music theory.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub Stats
 
-<!-- Anurag's GitHub Stats (transparent theme) -->
-![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=hudsonty&show_icons=true&theme=transparent&hide_title=true)
+<!-- Profile Summary Cards -->
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hudsonty&theme=github_dark)
 
-<!-- Top Languages Card (transparent theme) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonty&layout=compact&theme=transparent)
+<!-- Top Languages -->
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=hudsonty&theme=github_dark)
 
-<!-- Streak Stats (transparent theme) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hudsonty&theme=transparent)
-
----
-
-## 🛠️ Projects I'm Working On
-
-- 🎮 Custom Game Boy Color mods with light-up buttons and AMOLED screens  
-- 🌐 Web proxy remake: [YouWillNeverWin](https://youwillneverwin.vercel.app)  
-- 📈 Trading dashboards and finance tools for paper trading  
-- 🎼 Music tools and compositions for piano and guitar
+<!-- GitHub Commits -->
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hudsonty&theme=github_dark)
 
 ---
 
-## 🧠 Currently Learning
+## ⚙️ Projects I'm Working On
 
-- Swift and iOS/macOS app development  
-- C++ for Game Boy programming  
-- 3D printing design and electronics  
-- Advanced harmonic and economic theory
+- 🎮 **Custom Game Boy Color mods** with light-up buttons and AMOLED screens  
+- 🌐 **Web proxy remake**: [YouWillNeverWin](https://youwillneverwin.vercel.app)  
+- 📈 **Paper trading dashboard** tools for stocks and ETFs  
+- 🎼 **Music theory tools** for piano and guitar
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Learning Goals
 
-- 🌐 Website: [youwillneverwin.vercel.app](https://youwillneverwin.vercel.app)
+- Swift and iOS/macOS development  
+- C++ and assembly for Game Boy dev  
+- 3D printing + electronics mods  
+- Music harmony & macroeconomic theory
+
+---
+
+## 🌍 Website
+
+- 🔗 [youwillneverwin.vercel.app](https://youwillneverwin.vercel.app)
 
 ---
 
